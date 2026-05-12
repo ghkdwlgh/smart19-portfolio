@@ -10,7 +10,7 @@ html {
 
 body {
   font-family: "Noto Sans KR", "Pretendard", Arial, sans-serif;
-  background: #f8fafc;
+  background: #f60404;
   color: #1e293b;
   line-height: 1.7;
 }
@@ -47,7 +47,7 @@ header {
 .logo {
   font-size: 24px;
   font-weight: 900;
-  color: #0e7490;
+  color: #0e6878;
   letter-spacing: -0.04em;
 }
 
@@ -61,13 +61,13 @@ header {
 
 .menu a:hover,
 .menu a.active {
-  color: #0e7490;
+  color: #121313;
 }
 
 .hero {
   position: relative;
   overflow: hidden;
-  background: linear-gradient(135deg, #0e7490, #1e3a8a);
+  background: linear-gradient(135deg, #831f1f, #fc0303);
   color: white;
 }
 
@@ -77,7 +77,7 @@ header {
   width: 420px;
   height: 420px;
   border-radius: 999px;
-  background: rgba(34, 211, 238, 0.28);
+  background: rgb(250, 4, 4);
   filter: blur(70px);
   right: 10%;
   top: 15%;
@@ -95,7 +95,7 @@ header {
 }
 
 .eyebrow {
-  color: #a5f3fc;
+  color: #0f1010;
   text-transform: uppercase;
   letter-spacing: 0.3em;
   font-size: 14px;
