@@ -174,7 +174,7 @@ header {
 }
 
 .hero-card img {
-  height: 500px;
+  height: 600px;
   object-fit: cover;
   border-radius: 30px;
 }
@@ -274,7 +274,7 @@ main section,
 }
 
 .stat-number {
-  font-size: 52px;
+  font-size: 42px;
   line-height: 1;
   font-weight: 950;
   color: #0e7490;
